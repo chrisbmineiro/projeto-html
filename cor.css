@@ -1,0 +1,11 @@
+dd, dt{color:red}
+.class{
+    color: aquamarine;
+    font: 2em;
+    font-family: monospace;
+}
+h1.class{
+    color: brown;
+    font: 3em;
+    font-family: cursive;
+}
